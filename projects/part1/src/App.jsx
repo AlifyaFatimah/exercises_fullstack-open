@@ -34,7 +34,7 @@ const Header = (props) => { //Harus pakai props untuk passing data
   )
 }
 
-const Content = (props) => { //Harus pakai props untuk passing data
+const Content = (props) => { 
   return (
     <>
       <Part name={props.parts[0].name} num={props.parts[0].exercises}/>

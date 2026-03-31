@@ -1,2 +1,4 @@
 # exercises_fullstack-open
-Exercises of fullstack open course
+Currently I'm enrolling myself in the [Fullstack open course](https://fullstackopen.com/) 
+
+This repo contains my exercises' answers.
